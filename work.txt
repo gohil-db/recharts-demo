@@ -1,0 +1,11 @@
+1
+npx create-react-app recharts-demo
+cd recharts-demo
+
+2
+npm install recharts
+
+3. Create Dummy Chart Component
+Create a file at:
+    src/components/SimpleChart.jsx
+
